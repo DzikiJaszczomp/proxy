@@ -1,2 +1,2 @@
 # proxy
-proxy for api requests
+Simple app to proxy API requests
